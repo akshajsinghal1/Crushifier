@@ -1,5 +1,5 @@
 const CONFIG = {
-    pageTitle: "Crushifier",
+    pageTitle: "Akshaj",
     popupTitle: '😏😏😏',
     description: `I'm assuming you're here because you've been sent a link to this page by someone you know.`,
     introButton: 'They want to ask you something...',
@@ -12,5 +12,5 @@ const CONFIG = {
     messPop: 'I know. I\'m just that good 😎😎😎',
     messDesc: 'Now we\'re together officially 👉👈',
     btnAccept: 'Okiiiiieeee <3',
-    redirect: 'https://github.com/TheGuyDangerous/Crushifier',
+    redirect: 'https://youtu.be/MRtRcTfszjY?si=Z9BPr8wRPqAgsemm',
 }
